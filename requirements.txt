@@ -1,0 +1,4 @@
+time
+selenium
+mysql.connector
+getpass
